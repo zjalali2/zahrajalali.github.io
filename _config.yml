@@ -10,11 +10,11 @@
 locale                   : "en-US"
 title                    : "Zahra Jalali, Ph.D."
 title_separator          : "-"
-name                     : &name "Zahra"
-description              : &description "Applied Scientist, AWS"
-url                      : https://zahrajalali.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zahra Jalali"
+description              : &description "personal description"
+url                      : https://zjalali2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zjalali2/zahrajalali.github.io"
+repository               : "zjalali2/zjalali2.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
