@@ -10,13 +10,20 @@ redirect_from:
 Hello! I’m Zahra Jalali, an Applied Scientist at Amazon Web Services (AWS) with a Ph.D. in Operations Management from McGill University, where I had the privilege of working under the guidance of Prof. [Maxime Cohen](https://maxccohen.github.io/) and Prof. [Mehmet Gumus](https://www.mcgill.ca/desautels/mehmet-gumus). My expertise lies in the intersection of **Data Analytics, Machine Learning, Causal Inference, and Large Language Models (LLMs)**, through which I deliver impactful solutions that enhance operational efficiency and improve customer engagement.
 
 I bring a unique blend of rigorous academic foundations and practical, industry-driven solutions, specializing in creating **scalable, AI-powered frameworks** that support informed decision-making and elevate customer engagement.
+
 ## Professional Impact at Amazon
 
-In my role at Amazon, I utilize my expertise in **LLM development, machine learning, and data science** to achieve significant business outcomes across several key domains:
+In my role at Amazon Web Services, I apply expertise in data science, machine learning, and large language models (LLMs) to create impactful solutions that optimize customer experiences and streamline operational efficiency. Key contributions include:
 
-- **Advanced LLM Agent Development with RAG and LangChain:** I design and deploy advanced LLM-based agents that leverage RAG and LangChain to optimize customer support interactions. By integrating retrieval-based responses, these agents enhance the accuracy and relevance of answers to complex customer queries, contributing to Amazon’s commitment to delivering world-class customer experiences.
+- **LLM Integration and Deployment**: I design and deploy large language model (LLM)-based workflows using frameworks like LangChain and Retrieval-Augmented Generation (RAG), driving enhanced customer support through precision-focused AI applications that prioritize safety and relevance.
 
-- **Optimization of Payment Journeys Through Data Science:** Utilizing **A/B testing, causal inference, and predictive modeling**, I develop data-driven models to reduce transaction failures and customize payment options, directly influencing customer satisfaction and operational cost efficiency on Amazon’s global platform.
+- **Predictive Analytics and Payment Optimization**: Leveraging machine learning frameworks, including PyTorch and TensorFlow, I develop predictive models that improve transaction success rates, reduce payment failures, and minimize customer friction. My experience spans A/B testing, causal inference, and real-time analytics to deliver data-driven insights and performance improvements across global platforms.
+
+- **Operational Cost Efficiency**: I optimize transactional workflows by developing models that address routing efficiency and ensure compliance with payment volume commitments, directly impacting Amazon’s cost of payments (COP) and operational scalability.
+
+- **Advanced Data Analytics for Decision-Making**: Using comprehensive data-driven methodologies, I interpret complex datasets and provide insights that guide customer-focused decisions, enhance engagement, and support Amazon’s strategic goals.
+
+This experience reflects my commitment to applying advanced AI and machine learning to solve complex, large-scale challenges and to drive continuous improvement in customer satisfaction and operational performance.
 
 ## Research Contributions & Publications
 
