@@ -24,7 +24,7 @@ I have contributed to high-impact journals, including the *European Journal of O
 
 ## Future Directions
 
-Moving forward, my research will continue to expand the applications of LLMs and machine learning in **retail and healthcare**. By merging **causal inference, experimental design, and scalable AI tools**, I aim to develop AI-driven solutions that address complex operational challenges in a strategic, results-oriented manner.
+Moving forward, my research will continue to expand the applications of LLMs and Machine Learning in **retail and healthcare**. By merging **causal inference, experimental design, and scalable AI tools**, I aim to develop AI-driven solutions that address complex operational challenges in a strategic, results-oriented manner.
 
 ## Contact Information
 
