@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m Zahra Jalali, an Applied Scientist at Amazon AWS with a Ph.D. in Operations Management from McGill University, where I had the privilege of working under the guidance of Prof. [Maxime Cohen](https://maxccohen.github.io/) and Prof. [Mehmet Gumus](https://www.mcgill.ca/desautels/mehmet-gumus). My expertise lies in the intersection of **Data Analytics, Machine Learning, Causal Inference, and Large Language Models (LLMs)**, through which I deliver impactful solutions that enhance operational efficiency and improve customer engagement.
+Hello! I’m Zahra Jalali, an Applied Scientist at Amazon Web Services (AWS) with a Ph.D. in Operations Management from McGill University, where I had the privilege of working under the guidance of Prof. [Maxime Cohen](https://maxccohen.github.io/) and Prof. [Mehmet Gumus](https://www.mcgill.ca/desautels/mehmet-gumus). My expertise lies in the intersection of **Data Analytics, Machine Learning, Causal Inference, and Large Language Models (LLMs)**, through which I deliver impactful solutions that enhance operational efficiency and improve customer engagement.
 
 I bring a unique blend of rigorous academic foundations and practical, industry-driven solutions, specializing in creating **scalable, AI-powered frameworks** that support informed decision-making and elevate customer engagement.
 ## Professional Impact at Amazon
