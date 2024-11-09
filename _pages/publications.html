@@ -5,32 +5,45 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<h2>Published Papers</h2>
+<ul>
+    <li>
+        <strong>Outpatient Appointment Systems in Healthcare: A Review of Optimization Studies</strong><br>
+        Amir Ahmadi-Javid, <strong>Zahra Jalali</strong>, Kenneth Klassen<br>
+        <em>European Journal of Operational Research</em>, 258.1 (2017): 3-34.
+    </li>
+    <li>
+        <strong>Do options trading activities affect underlying firms’ asymmetric cost behavior?</strong><br>
+        Mohammad Hendijani Zadeh, <strong>Zahra Jalali</strong><br>
+        <em>Journal of Corporate Finance</em>, 88 (2024): 102657.
+    </li>
+</ul>
 
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+<h2>Working Papers</h2>
+<ul>
+    <li>
+        <strong>On the Effects of Boarding Congestion on Treatment Time in Emergency Departments</strong><br>
+        <strong>Zahra Jalali</strong>, Beste Kucukyazici, Mehmet Gumus<br>
+        <em>Status:</em> Revise and Resubmit at Production and Operations Management
+    </li>
+    <li>
+        <strong>Vertical Product Location Effect on Sales: A Field Experiment in Convenience Stores</strong><br>
+        <strong>Zahra Jalali</strong>, Maxime Cohen, Necati Ertekin, Mehmet Gumus<br>
+        <em>Status:</em> Reject and Resubmit at Manufacturing & Service Operations Management
+    </li>
+    <li>
+        <strong>Offline-Online Retail Collaboration via Pickup Partnership</strong><br>
+        <strong>Zahra Jalali</strong>, Maxime Cohen, Necati Ertekin, Mehmet Gumus<br>
+        <em>Status:</em> Under Review at Production and Operations Management
+    </li>
+    <li>
+        <strong>Abandonment Behavior in Semi-Visible Queues: Applications for Abandonment Behavior in Semi-Visible Queues</strong><br>
+        <strong>Zahra Jalali</strong><br>
+        <em>Status:</em> In preparation for resubmission to Journal of Operations Management
+    </li>
+    <li>
+        <strong>Options Trading Activities and Non-GAAP Earnings Disclosure</strong><br>
+        Mohammad Hendijani Zadeh, <strong>Zahra Jalali</strong><br>
+        <em>Status:</em> Revise and Resubmit at British Accounting Review
+    </li>
+</ul>
